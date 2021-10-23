@@ -1,1 +1,2 @@
-# shubinsa-DL_RL_made
+# DL_RL_made
+# Шубин Сергей
